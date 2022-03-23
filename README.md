@@ -1,4 +1,4 @@
-# Guacamole recipe
+# Guacamole recipe.
 
 Used in teaching Git.
 Version control is cool :)
